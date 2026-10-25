@@ -1,0 +1,12 @@
+/bin/
+/obj/
+/build/
+/dist/
+*.log
+*.obj
+*.lib
+*.exp
+*.pdb
+*.exe
+*.dll
+.vs/
